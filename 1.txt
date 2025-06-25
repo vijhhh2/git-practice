@@ -21,3 +21,4 @@ Adding a super special feature4
 Adding a super special feature5
 
 Reverting test start
+Reverting test middle1
